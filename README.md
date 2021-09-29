@@ -1,3 +1,3 @@
 # stepik-auto-tests-course
 Homework for the course
-OLOLO
+Initial commit file Readme.md
